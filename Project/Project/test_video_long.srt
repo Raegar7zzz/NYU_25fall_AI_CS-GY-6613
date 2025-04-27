@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:10,000
+Convolutional Neural Networks (CNNs) have revolutionized the field of computer vision by recognizing patterns and objects in images.
+
+2
+00:00:10,001 --> 00:00:20,000
+Residual connections in ResNet address the vanishing gradient problem, enabling the training of deeper networks effectively.
+
+3
+00:00:20,001 --> 00:00:30,000
+Binary cross-entropy loss measures the dissimilarity between prediction and truth, essential for classification tasks.
